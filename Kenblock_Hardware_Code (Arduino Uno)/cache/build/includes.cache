@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\packages\\Kenblock\\hardware\\avr\\1.1.0\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\packages\\Kenblock\\hardware\\avr\\1.1.0\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\prana\\Documents\\sketch_jul12a\\cache\\build\\sketch\\sketch_jul12a.ino.cpp",
+    "Include": "Kenblock.h",
+    "Includepath": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\packages\\Kenblock\\hardware\\avr\\1.1.0\\libraries\\Kenblock\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\prana\\Documents\\sketch_jul12a\\cache\\build\\sketch\\sketch_jul12a.ino.cpp",
+    "Include": "Kenblock_4DigitalDisplay.h",
+    "Includepath": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\packages\\Kenblock\\hardware\\avr\\1.1.0\\libraries\\Kenblock_4DigitalDisplay\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\prana\\Documents\\sketch_jul12a\\cache\\build\\sketch\\sketch_jul12a.ino.cpp",
+    "Include": "Kenblock_Motor.h",
+    "Includepath": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\packages\\Kenblock\\hardware\\avr\\1.1.0\\libraries\\Kenblock_Motor\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\prana\\Documents\\sketch_jul12a\\cache\\build\\sketch\\sketch_jul12a.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\packages\\Kenblock\\hardware\\avr\\1.1.0\\libraries\\Kenblock_4DigitalDisplay\\src\\Kenblock_4DigitalDisplay.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\packages\\Kenblock\\hardware\\avr\\1.1.0\\libraries\\Kenblock_Motor\\src\\Kenblock_Motor.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

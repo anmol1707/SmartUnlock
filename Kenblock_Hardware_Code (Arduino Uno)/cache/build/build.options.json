@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\arduino\\libraries",
+  "customBuildProperties": "runtime.tools.avr-gcc.path=C:\\Users\\prana\\Desktop\\Kenblock\\data\\arduino/hardware/tools/avr,runtime.tools.avrdude.path=C:\\Users\\prana\\Desktop\\Kenblock\\data\\arduino/hardware/tools/avr,build.warn_data_percentage=75",
+  "fqbn": "Kenblock:avr:328p",
+  "hardwareFolders": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\arduino\\hardware,C:\\Users\\prana\\Desktop\\Kenblock\\data\\arduino\\packages,C:\\Users\\prana\\Desktop\\Kenblock\\data\\packages",
+  "otherLibrariesFolders": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\packages\\Kenblock\\hardware\\avr\\1.1.0\\libraries",
+  "runtime.ide.version": "10612",
+  "sketchLocation": "C:\\Users\\prana\\Documents\\sketch_jul12a\\cache\\sketch_jul12a.ino",
+  "toolsFolders": "C:\\Users\\prana\\Desktop\\Kenblock\\data\\arduino/tools-builder,C:\\Users\\prana\\Desktop\\Kenblock\\data\\arduino/hardware/tools/avr,C:\\Users\\prana\\Desktop\\Kenblock\\data\\arduino/packages"
+}
