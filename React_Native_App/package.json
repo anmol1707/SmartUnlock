@@ -10,7 +10,7 @@
     "buffer": "^5.2.1",
     "convert-string": "^0.1.0",
     "react": "16.8.6",
-    "react-native": "0.60.0",
+    "react-native": "0.62.3",
     "react-native-ble-plx": "^1.0.3",
     "react-native-push-notification": "^3.1.3"
   },
